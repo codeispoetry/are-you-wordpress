@@ -1,0 +1,38 @@
+    1. Have you ever used the WP CLI before?
+    2. Did you ever type wp list themes instead of wp themes list?
+    3. Are you now wondering, if it’s singular or plural? wp theme or wp themes?
+    4. Have you ever had a client, that wanted the Classic Editor over the Block Editor?
+    5. Did you ever thought, the plain editor would be the best for some customers?
+    6. Did you ever change a color from gray to lightgray upon request of a client?
+    7. Did you ever change that lightgray back to gray upon request of the same client four days later?
+    8. Have you ever heard the sentence: Please start developing, content comes later?
+    9. Have you ever written code, that was just meant to work on the clients Opera browser to make her or him happy?
+    10. In your early days, did you use table-layout because there was no CSS?
+    11. Did you ever „deployed“ your site with plain FTP?
+    12. Did you ever changed code on a live system with the help of FileZilla?
+    13. If you don’t know FileZilla, Congratulations: don’t search for it.
+    14. Did you ever use the credentials admin/admin on a local setup?
+    15. Have you ever used such simple credentials on a live system?
+    16. Did you ever commit any secret credentials into your git?
+    17. Did you push it?
+    18. Did you ever commit to a wrong branch and immediatly thought: I hate this cherry-picking and revert-thing?
+    19. Are you afraid of merge conflicts as they demand your full concentration?
+    20. Have you ever written code on a development-server, but tested it on a production-server, and was wondering for ten minutes, why your chances did not take effect?
+    21. Do you also think, that you are not capable of writing code on a piece of paper, that follows the WordPress-Coding-Standards – because there is no IDE telling you, what is wrong?
+    22. Have you ever used „phpcs:ignoreFile“ just to get rid of this annoying red curly lines under you code?
+    23. Have you ever mixed UpperCamelCase, lowerCamelCase, Snake_case and Kebab Case in this file?
+    24. Have you ever replaced 50 lines of code with just one line, because you did not know this cool function before?
+    25. Do you always wonder, if it’s $haystack $needle or $needle $haystack?
+    26. Are you now hungry, because I said: Kebab Case?
+    27. Have you ever thought: Who the heck has written this code and git blame showed up your name?
+    28. Have you ever written a function, that did work on the very first try and you thought: That cannot be true, none of my code works in the first place?
+    29. Have you ever enqueued a script by a simple <script>-tag instead of wp_enqueue_script?
+    30. Have you more projects, that use wp_ as table prefix than some custom prefix?
+    31. Do you insist, to write WordPress in CamelCase with a capital P in the middle?
+    32. Yoda-Conditions – weird do you find it?
+    33. Have you ever used in add_action another value for $priority than 10?
+    34. Have you ever used get_permalink instead of get_the_permalink?
+    35. Have you ever been envious, that it was not you who invented WordPress?
+    36. Did you ever thought: WordPress is the best CMS on the internet?
+
+Congratulations, you are all WordPress developers.
